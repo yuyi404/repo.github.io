@@ -14,3 +14,170 @@ Description: FaceSwapper去除预览水印和导出水印，网上有开心版�
 Author: 来了老弟 X：h_h_x_t
 Name: FaceSwapper
 
+Package: cn.llld.kbtool
+Version: 3.5.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 10400
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.kbtool_3.5.0-1_iphoneos-arm64.deb
+Size: 3319536
+MD5sum: 5119eb3c47993950b6feef4de3cd3513
+SHA1: 0af6c88ccba6de1278e7c508bc5df815583fde3d
+SHA256: 79b80f65d7f339e5d05b6331d1ec4541a7bdcb41f1838af286c0218c1e3a5079
+Section: rootless应用插件
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (rootless)
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.kbtool/kbtool.json
+
+Package: cn.llld.pixactpro
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Pixact-Pro_0.0.1_iphoneos-arm64.deb
+Size: 5360
+MD5sum: 449cf4ec3b50eb6b73004e9d3f2e1f2d
+SHA1: 1513695afcaaca260431f9522548df6f18e64332
+SHA256: 449b7dbeca6e8c4af7a2e29334fa45a02269fc9a1071a00d6e2aea84ef0a6736
+Section: rootless应用会员
+Description: Pixact专业版
+Author: 来了老弟 X：h_h_x_t
+Name: Pixact-Pro
+
+Package: cn.octoforce.copyvault
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 5344
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/cn.octoforce.copyvault_1.7.0_iphoneos-arm64.deb
+Size: 1678442
+MD5sum: d9914532c573beba7f1991774d0aebc3
+SHA1: 930fa89eb200fb8164d2242eb285d6f753888d4a
+SHA256: 90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 9424
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/cn.octoforce.squidextender_2.0.2_iphoneos-arm64.deb
+Size: 2100172
+MD5sum: 58a34b12201bdc167310481cc1315e29
+SHA1: f9b3caee5f1435b3f541b2410d05a9f5f0549eb0
+SHA256: 80a82b92ed474f66a1a19f35f4549c619f3e7c5768ed7b95552c4e321bc8f833
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: com.baiy.wechatrotate
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq:961666883）
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/微信头像旋转-无根.deb
+Size: 8018
+MD5sum: 0e7bbf844a40e3cfca4a9d79a54aaaf2
+SHA1: 2479a88da3282fc68da9e5e59e93e29086f14d11
+SHA256: ed6d8a81c7620f6ee4189c457f6e5b660026d23722c391551d04f0d3460ccef6
+Section: Tweaks
+Description: 看着头都晕，添加一个开关，新增一个速度控制！
+Author: 白衣
+Name: 微信头像旋转
+
+Package: com.phucdo.plampyuipro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Installed-Size: 2064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/PlampyUIPro-Rootless-Paid-PhucDo.deb
+Size: 727356
+MD5sum: 5e09522fae8f14141b56d99d5fc17dbf
+SHA1: d4d6866117fc114715e70920b0271d9a8b9a37a8
+SHA256: 503648e1aefbe7d223079587031e13858b31d35f890b5018a21bd209a197e4ee
+Section: Control Center UI
+Description: Plampy UI Pro - custumizing CC on Jailbroken devices for iOS 15 & 16.
+Author: Phuc Do
+Name: Plampy UI Pro
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/o3 分屏付费泄露版①去除联网验证--pro_1.3.7_无根(1).deb
+Size: 1536928
+MD5sum: 037fcb5128c192a3634ac55eb5bcee70
+SHA1: a2e69f21ee2d0e2e8b7d606ee8635df331cb7e45
+SHA256: 2b05b472277563dc20d0af914cfa3128c04146ad047949f9d1ba159e1bfc935e
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.xybp888.test
+Version: 0.0.1-28
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xybp888.test_0.0.1-28_iphoneos-arm64.deb
+Size: 4912
+MD5sum: 8773456da2ce97d054b5f79efbd4b0a0
+SHA1: 41c79df3fab912d2ea685db7c225ad848472b6d3
+SHA256: e30e8d729f55bbac2e6f20aa689662d908b97c1e42be6ab6c4bbf17321aa5b42
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: xybp888
+Name: test
+
+Package: com.yuyi.mdd
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: yuyi <1>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.yuyi.mdd_0.0.2_iphoneos-arm64.deb
+Size: 2442
+MD5sum: b322e213a47797ca32f3dc020a8d93bb
+SHA1: ff14fa012197662d28e11b89b651f6724151d3e0
+SHA256: f3fa5fb13d88bf921be21665ee952d4572ba92dfb6955e43a029b61191cb930e
+Section: Tweaks
+Description: 埋堆堆5.2.41去开屏广告
+Author: 余忆
+Name: 埋堆堆 去开屏
+
+Package: netskao.wechathook
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 276
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/微信人脸识别_1.1-1.deb
+Size: 59246
+MD5sum: f303d75ae15e93b6b739ae599f013649
+SHA1: 5439f59d82b68134c96ac5c977f32e0e3e04d9d0
+SHA256: 0a595875e60ace34f4173cc9905eed4ed5fd95264aaec2084c5e8180911a7fd3
+Section: Netskao-Tweaks
+Description: WeChatHook
+Author: Netskao
+Name: WeChatHook
+
